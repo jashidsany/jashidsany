@@ -1,6 +1,6 @@
 ## Hello there, I'm Jashid or Zannic!
 
-<img src="https://tenor.com/view/catwifmask-shocked-cat-catwif-gif-6071111483543647590" width="200" align="center" />
+<img src="https://tenor.com/view/catwifmask-shocked-cat-catwif-gif-6071111483543647590.gif" width="200" align="center" />
 
 I’m a security researcher and malware developer diving deep into offensive security, malware development, and Windows internals.
 
